@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Don't Think, Feel",
+  "base_artist": "Awesome City Club",
+  "createdAt": "2026-02-09T14:31:18.597071Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Think...Feel",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/01_Don't_Think...Feel_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Think...Feel",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/02_Don't_Think...Feel_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't think. Feel!!!",
+      "artist": "IDOLING!!!",
+      "has_synced": true,
+      "path": "select/03_Don't_think._Feel!!!_IDOLING!!!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Think. Feel",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/04_Don’t_Think._Feel_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Think… Feel",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/05_Don’t_Think..._Feel_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Think…Feel",
+      "artist": "Neil Diamond",
+      "has_synced": false,
+      "path": "select/06_Don’t_Think...Feel_Neil_Diamond.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Think.Feel",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/07_Don’t_Think.Feel_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't think. Feel !!!(25idoling Ver.)",
+      "artist": "アイドリング!!!",
+      "has_synced": true,
+      "path": "select/08_Don't_think._Feel_!!!(25idoling_Ver.)_アイドリング!!!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Think. Feel!!!",
+      "artist": "Idoling!!!",
+      "has_synced": false,
+      "path": "select/09_Don't_Think._Feel!!!_Idoling!!!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Think. Feel (KING'S PARADE at Yokohama Arena 2018.12.21)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/10_Don't_Think._Feel_(KING'S_PARADE_at_Yokohama_Arena_2018.12.21)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Think. Feel (Live at Kyocera Dome Osaka)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/11_Don't_Think._Feel_(Live_at_Kyocera_Dome_Osaka)_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't think. Feel!!!",
+      "artist": "Idoling!!!",
+      "has_synced": true,
+      "path": "select/12_Don't_think._Feel!!!_Idoling!!!.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Think.Feel THE LIVE 2022.12.21 at Yokohama Arena",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/13_Don't_Think.Feel_THE_LIVE_2022.12.21_at_Yokohama_Arena_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Think, Feel",
+      "artist": "Awesome City Club",
+      "has_synced": true,
+      "path": "select/14_Don't_Think,_Feel_Awesome_City_Club.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't think. Feel!!!",
+      "artist": "Idioting!!!",
+      "has_synced": true,
+      "path": "select/15_Don't_think._Feel!!!_Idioting!!!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Don't think. Feel!!!",
+      "artist": "アイドリング!!!",
+      "has_synced": true,
+      "path": "select/16_Don't_think._Feel!!!_アイドリング!!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Think, Feel",
+      "artist": "Awesome City Club",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Think,_Feel_Awesome_City_Club.txt"
+    }
+  ]
+}
